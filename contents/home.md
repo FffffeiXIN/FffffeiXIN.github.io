@@ -1,6 +1,6 @@
 I am a 1st PhD student in Computer Science at Northwestern University. My advisor is [Prof.Jennie Rogers](http://users.eecs.northwestern.edu/~jennie/).
 
-Before that, I was an undergraduate research assistant at Southern University of Science and Technology advised by [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/) and [Prof.Huan Li](https://longaspire.github.io/). 
+Before that, I was an undergraduate research assistant at Southern University of Science and Technology(Sustech), advised by [Prof.Bo Tang](https://acm.sustech.edu.cn/btang/) and [Prof.Huan Li(Zhejiang University)](https://longaspire.github.io/). 
 
 #### Email
 shiminluo2029@u.northwestern.edu
